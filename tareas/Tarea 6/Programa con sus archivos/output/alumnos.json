@@ -1,0 +1,65 @@
+{
+  "cantidad": 10,
+  "Alumnos": [
+    {
+      "Nombre": "Juan",
+      "Apellido": "Perez",
+      "Promedio": 8.5,
+      "Materia": "Matematica"
+    },
+    {
+      "Nombre": "Diego",
+      "Apellido": "Fabian",
+      "Promedio": 10,
+      "Materia": "Matematica"
+    },
+    {
+      "Nombre": "Elian",
+      "Apellido": "Daniel",
+      "Promedio": 9,
+      "Materia": "Matematica"
+    },
+    {
+      "Nombre": "Jeremyn",
+      "Apellido": "De Leon",
+      "Promedio": 10,
+      "Materia": "Matematica"
+    },
+    {
+      "Nombre": "Yamil",
+      "Apellido": "Antonio",
+      "Promedio": 10,
+      "Materia": "Matematica"
+    },
+    {
+      "Nombre": "Sergio",
+      "Apellido": "Lithgow",
+      "Promedio": 8,
+      "Materia": "Matematica"
+    },
+    {
+      "Nombre": "Mia",
+      "Apellido": "Claudine",
+      "Promedio": 9,
+      "Materia": "Matematica"
+    },
+    {
+      "Nombre": "Fabiola",
+      "Apellido": "Mercedez",
+      "Promedio": 7,
+      "Materia": "Matematica"
+    },
+    {
+      "Nombre": "Leslie",
+      "Apellido": "Miranda",
+      "Promedio": 10,
+      "Materia": "Matematica"
+    },
+    {
+      "Nombre": "Zyanya",
+      "Apellido": "Morales",
+      "Promedio": 10,
+      "Materia": "Matematica"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+<Alumnos>
+    <cantidad>10</cantidad>
+
+    <Alumno>
+        <Nombre>Juan</Nombre>
+        <Apellido>Perez</Apellido>
+        <Promedio>8.5</Promedio>
+        <Materia>Matematica</Materia>
+    </Alumno>
+
+    <Alumno>
+        <Nombre>Diego</Nombre>
+        <Apellido>Fabian</Apellido>
+        <Promedio>10</Promedio>
+        <Materia>Matematica</Materia>
+    </Alumno>
+
+    <Alumno>
+        <Nombre>Elian</Nombre>
+        <Apellido>Daniel</Apellido>
+        <Promedio>9</Promedio>
+        <Materia>Matematica</Materia>
+    </Alumno>
+
+    <Alumno>
+        <Nombre>Jeremyn</Nombre>
+        <Apellido>De Leon</Apellido>
+        <Promedio>10</Promedio>
+        <Materia>Matematica</Materia>
+    </Alumno>
+
+    <Alumno>
+        <Nombre>Yamil</Nombre>
+        <Apellido>Antonio</Apellido>
+        <Promedio>10</Promedio>
+        <Materia>Matematica</Materia>
+    </Alumno>
+
+    <Alumno>
+        <Nombre>Sergio</Nombre>
+        <Apellido>Lithgow</Apellido>
+        <Promedio>8</Promedio>
+        <Materia>Matematica</Materia>
+    </Alumno>
+
+    <Alumno>
+        <Nombre>Mia</Nombre>
+        <Apellido>Claudine</Apellido>
+        <Promedio>9</Promedio>
+        <Materia>Matematica</Materia>
+    </Alumno>
+
+    
+    <Alumno>
+        <Nombre>Fabiola</Nombre>
+        <Apellido>Mercedez</Apellido>
+        <Promedio>7</Promedio>
+        <Materia>Matematica</Materia>
+    </Alumno>
+
+
+    <Alumno>
+        <Nombre>Leslie</Nombre>
+        <Apellido>Miranda</Apellido>
+        <Promedio>10</Promedio>
+        <Materia>Matematica</Materia>
+    </Alumno>
+
+    <Alumno>
+        <Nombre>Zyanya</Nombre>
+        <Apellido>Morales</Apellido>
+        <Promedio>10</Promedio>
+        <Materia>Matematica</Materia>
+    </Alumno>
+
+
+</Alumnos>
+
+
+   
